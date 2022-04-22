@@ -1,0 +1,281 @@
+{
+    "Preguntas": {
+      "pregunta": [
+        {
+          "id": "0",
+          "difficulty": "0",
+          "question": "¿Cuál es el libro más vendido de todos los tiempos?",
+          "wronganswer": "El libro más vendido es la biblia",
+          "asnwera": "Don Quijote",
+          "asnwerb": "El Señor de los Anillos",
+          "asnwerc": "La biblia",
+          "asnwerd": "Harry Potter y la piedra filosofal",
+          "correctanswer": "c"
+        },
+        {
+          "id": "1",
+          "difficulty": "0",
+          "question": "¿Cuál es el nombre de la actual Reina de Inglaterra?",
+          "wronganswer": "La actual reina de inglaterra se llama Isabel",
+          "asnwera": "Isabel",
+          "asnwerb": "Margarita",
+          "asnwerc": "Ana",
+          "asnwerd": "Victoria",
+          "correctanswer": "a"
+        },
+        {
+          "id": "2",
+          "difficulty": "0",
+          "question": "¿Cuántos corazones tiene un pulpo?",
+          "wronganswer": "Los pulpos tienen 3 corazones",
+          "asnwera": "2",
+          "asnwerb": "1",
+          "asnwerc": "4",
+          "asnwerd": "3",
+          "correctanswer": "d"
+        },        
+        {
+          "id": "3",
+          "difficulty": "0",
+          "question": "¿Cuántos huesos tiene el cuerpo humano?",
+          "wronganswer": "El cuerpo humano tiene 206 huesos",
+          "asnwera": "189",
+          "asnwerb": "206",
+          "asnwerc": "210",
+          "asnwerd": "294",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "4",
+          "difficulty": "0",
+          "question": "¿Cuál es el país más pequeño del mundo?",
+          "wronganswer": "El país más pequeño del mundo es el Vaticano",
+          "asnwera": "El Vaticano",
+          "asnwerb": "Maldivas",
+          "asnwerc": "San Marino",
+          "asnwerd": "Nauru",
+          "correctanswer": "a"
+        },         
+        {
+          "id": "5",
+          "difficulty": "1",
+          "question": "¿Cuál es la primera película de Disney?",
+          "wronganswer": "La primera película de Disney es Blancanieves",
+          "asnwera": "Blancanieves",
+          "asnwerb": "Dumbo",
+          "asnwerc": "Pinocho",
+          "asnwerd": "Bambi",
+          "correctanswer": "a"
+        },        
+        {
+          "id": "6",
+          "difficulty": "1",
+          "question": "¿Cuáles colores tiene la bandera de Italia?",
+          "wronganswer": "Los colores de la bandera de Italia son verde/blanco/rojo",
+          "asnwera": "Negro Amarillo Rojo",
+          "asnwerb": "Verde Blanco Rojo",
+          "asnwerc": "Verde Amarillo Azul",
+          "asnwerd": "Amarillo Azul Blanco",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "7",
+          "difficulty": "1",
+          "question": "¿De qué está hecho el sake japonés?",
+          "wronganswer": "El sake japonés está hecho de arroz",
+          "asnwera": "Manzanas",
+          "asnwerb": "Trigo",
+          "asnwerc": "Maíz",
+          "asnwerd": "Arroz",
+          "correctanswer": "d"
+        },        
+        {
+          "id": "8",
+          "difficulty": "1",
+          "question": "¿Cuál es el río más largo del mundo?",
+          "wronganswer": "El río más largo del mundo es el Nilo",
+          "asnwera": "Amazonas",
+          "asnwerb": "Nilo",
+          "asnwerc": "Misisipi",
+          "asnwerd": "Bravo",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "9",
+          "difficulty": "1",
+          "question": "¿Quién pintó la Mona Lisa?",
+          "wronganswer": "La Mona Lisa fue pintada por Leonardo da Vinci",
+          "asnwera": "Leonardo da Vinci",
+          "asnwerb": "Miguel Ángel",
+          "asnwerc": "Vincent van Gogh",
+          "asnwerd": "Sandro Botticelli",
+          "correctanswer": "a"
+        },        
+        {
+          "id": "10",
+          "difficulty": "2",
+          "question": "¿Cuál es el animal más grande del mundo?",
+          "wronganswer": "El animal más grande del mundo es la ballena azul",
+          "asnwera": "Tiburón",
+          "asnwerb": "Rinoceronte",
+          "asnwerc": "Ballena azul",
+          "asnwerd": "Anaconda",
+          "correctanswer": "c"
+        },        
+        {
+          "id": "11",
+          "difficulty": "2",
+          "question": "¿Cuántas zonas horarias tiene Rusia?",
+          "wronganswer": "Rusia tiene once zonas horarias",
+          "asnwera": "Cinco",
+          "asnwerb": "Once",
+          "asnwerc": "Siete",
+          "asnwerd": "Quince",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "12",
+          "difficulty": "2",
+          "question": "¿Cuántos anillos olímpicos son?",
+          "wronganswer": "Son cinco anillos olímpicos",
+          "asnwera": "Siete",
+          "asnwerb": "Cinco",
+          "asnwerc": "Cuatro",
+          "asnwerd": "Seis",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "13",
+          "difficulty": "2",
+          "question": "¿Cuál es el planeta más pequeño de nuestro sistema solar",
+          "wronganswer": "El planeta más pequeño del sistema solar es Mercurio",
+          "asnwera": "Venus",
+          "asnwerb": "Tierra",
+          "asnwerc": "Mercurio",
+          "asnwerd": "Saturno",
+          "correctanswer": "c"
+        },        
+        {
+          "id": "14",
+          "difficulty": "2",
+          "question": "¿Cuál es la capital de Dinamarca?",
+          "wronganswer": "La capital de Dinamarca es Copenhague",
+          "asnwera": "Copenhague",
+          "asnwerb": "Estocolm",
+          "asnwerc": "Reikiavik",
+          "asnwerd": "Oslo",
+          "correctanswer": "a"
+        },        
+        {
+          "id": "15",
+          "difficulty": "3",
+          "question": "¿Cuál fue el primer animal en la luna?",
+          "wronganswer": "El primer animal en la luna fue un perro",
+          "asnwera": "Mandril",
+          "asnwerb": "Gato",
+          "asnwerc": "Ratón",
+          "asnwerd": "Perro",
+          "correctanswer": "d"
+        },        
+        {
+          "id": "16",
+          "difficulty": "3",
+          "question": "¿Cuántas teclas tiene un piano clásico?",
+          "wronganswer": "Un piano clásico tiene 88 teclas",
+          "asnwera": "61",
+          "asnwerb": "49",
+          "asnwerc": "88",
+          "asnwerd": "37",
+          "correctanswer": "c"
+        },        
+        {
+          "id": "17",
+          "difficulty": "3",
+          "question": "¿Qué fuerza atrae todo hacia la tierra?",
+          "wronganswer": "La fuerza que atrae todo hacia la tierra es la gravedad",
+          "asnwera": "Electromagnetismo",
+          "asnwerb": "Atracción",
+          "asnwerc": "Gravedad",
+          "asnwerd": "Nuclear",
+          "correctanswer": "c"
+        },        
+        {
+          "id": "18",
+          "difficulty": "3",
+          "question": "¿A qué le teme la acrofobia?",
+          "wronganswer": "La acrofibia es una fobia a las alturas",
+          "asnwera": "Alturas",
+          "asnwerb": "Arañas",
+          "asnwerc": "Tormentas",
+          "asnwerd": "Sangre",
+          "correctanswer": "a"
+        },        
+        {
+          "id": "19",
+          "difficulty": "3",
+          "question": "¿Cuántas semanas tiene un año?",
+          "wronganswer": "Un año tiene 52 semanas",
+          "asnwera": "56",
+          "asnwerb": "52",
+          "asnwerc": "51",
+          "asnwerd": "54",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "20",
+          "difficulty": "4",
+          "question": "¿Cuándo se inventaron los LEGO?",
+          "wronganswer": "Los LEGO fueron inventados en 1958",
+          "asnwera": "1958",
+          "asnwerb": "1944",
+          "asnwerc": "1963",
+          "asnwerd": "1951",
+          "correctanswer": "a"
+        },        
+        {
+          "id": "21",
+          "difficulty": "4",
+          "question": "¿Quién diseñó la Torre Eiffel?",
+          "wronganswer": "Gustave Eiffel diseño la Torre Eiffel",
+          "asnwera": "Antoine Eiffel",
+          "asnwerb": "Belmont Eiffel",
+          "asnwerc": "Gustave Eiffel",
+          "asnwerd": "Dean Eiffel",
+          "correctanswer": "c"
+        },        
+        {
+          "id": "22",
+          "difficulty": "4",
+          "question": "¿Cómo se llama la luna más grande de Saturno?",
+          "wronganswer": "La luna más grande de Saturno se llama Titán",
+          "asnwera": "Calipso",
+          "asnwerb": "Titán",
+          "asnwerc": "Pan",
+          "asnwerd": "Helena",
+          "correctanswer": "b"
+        },        
+        {
+          "id": "23",
+          "difficulty": "4",
+          "question": "¿Cuántos dientes permanentes tienen los perros?",
+          "wronganswer": "Los perros tienen 42 dientes permanentes",
+          "asnwera": "40",
+          "asnwerb": "39",
+          "asnwerc": "35",
+          "asnwerd": "42",
+          "correctanswer": "d"
+        },        
+        {
+          "id": "24",
+          "difficulty": "4",
+          "question": "¿Cuál es el único continente donde no se encuentran especies de hormigas?",
+          "wronganswer": "El único continente donde no se encuentran hormigas es la Antártida",
+          "asnwera": "Oceanía",
+          "asnwerb": "Antártida",
+          "asnwerc": "África",
+          "asnwerd": "Europa",
+          "correctanswer": "b"
+        }
+      ]
+    }
+  }
